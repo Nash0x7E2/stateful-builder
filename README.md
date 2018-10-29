@@ -1,8 +1,5 @@
-# stateful_builder_example
+# Flutter Stateful Builder Example 
 
-A new Flutter project.
+Example code for my article on  Flutter's StatefulBuilder 
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Article: https://medium.com/flutter-community/stateful-widgets-be-gone-stateful-builder-a67f139725a0
